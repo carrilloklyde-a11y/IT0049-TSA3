@@ -1,5 +1,7 @@
 # TSA3 — Ember Daily — Tasks for Today
 
+GitHub source: [IT0049-TSA3](https://github.com/carrilloklyde-a11y/IT0049-TSA3). When cloning this repository, follow **Fresh installation** below.
+
 This is the independent **TSA3** project. It has its own installed dependencies, environment settings, and SQLite database.
 
 ## Run locally
